@@ -1,0 +1,6 @@
+print("Welcome to the band name generator")
+no = int(input("Enter no. of persons in your band:\n"))
+adj = input("Enter any adjective describes your band:\n")
+city = input("Enter the city name of Band:\n")
+pop = input("Enter the most popular sub profession like Guitarist, Drummer etc. in your band:\n")
+print("Your band name can be ",no, adj ,pop ,city )
